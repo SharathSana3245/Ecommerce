@@ -1,0 +1,89 @@
+.payment{
+    background-color: white;
+}
+.payment_section>h1{
+    text-align: center;
+    padding:10px;
+    border-bottom: 1px solid lightgray;
+    font-weight: 500;
+
+}
+.payment_section{
+    display:flex;
+    padding:20px;
+    margin:0px 20px;
+    border-bottom: 1px solid lightgray;
+
+}
+.order_products{
+    margin-top: 40px;
+    margin-left: -100px;
+}
+.Address_button{
+    background-color: #f0c14b;
+    color:black;
+    border-radius: 1px;
+    width:fit-content;
+
+    margin-bottom: 10px;
+    cursor: pointer;
+    width:max-content;
+    
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color:white;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 7px;
+    margin-bottom: 0px;
+    width:40%
+
+}
+.details>p{
+    margin-left: 8px;
+    margin-right: 5px;
+    font-weight:700 ;
+ margin-top:0px
+}
+.Address_details{
+    margin:0px 20px;
+}
+.details{
+    margin:0px 20px;
+
+}
+.h3{
+    margin-left: 10px;
+}
+.order_button{
+background-color: #f0c14b;
+color:black;
+font-size: larger;
+font-weight: 700;
+margin-left: 40%;
+width:fit-content;
+margin-top: 15px;
+margin-bottom: 20px;
+border:1px solid black;
+border-radius: 1.5px;
+cursor: pointer;
+}
+.Thanks{
+    display: flex;
+    background-color: white;
+    color:black;
+    font-weight: 500;
+    box-sizing: border-box;
+    border: 1.5px solid black;
+    border-radius: 3px;
+    margin-top: 20%;
+    margin-left: 40%;
+    font-size: larger;
+    width:fit-content;
+    padding:30px;
+    margin-bottom: 10%;
+}

@@ -1,0 +1,36 @@
+.basketproduct {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+ 
+ 
+}
+.basketproduct_image {
+  height: 180px;
+  width: 170px;
+  object-fit: contain;
+ ;
+}
+.basketproduct_info{
+    padding-left: 20px;
+}
+.basketproduct_price{
+    font-weight: 700;
+}
+.basketproduct_button{
+    background-color: #f0c14b;
+    border:1px solid;
+    margin-top:10px;
+  border-color:#f0c14b;
+  color:#111;
+  font-size: 16px;
+}
+.basketproduct_rating{
+    display:flex;
+    margin-top: none;
+}
+.basketproduct_title{
+    font-size: 17px;
+    font-weight: 700;
+}

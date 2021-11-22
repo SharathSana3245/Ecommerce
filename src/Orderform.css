@@ -1,0 +1,27 @@
+.order_form{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color:ghostwhite;
+    box-sizing: border-box;
+    border: 1.5px solid black;
+    margin-top: 15px;
+    margin: 0PX;
+    border-radius: 2px;
+    width: fit-content;
+}
+.submit{
+    background-color: #f0c14b;
+    color:black;
+    border-radius: 1px;
+    width:fit-content;
+    margin-top: 10px;
+    margin-left: 42.5%;
+    margin-bottom: 10px;
+}
+.order_form>p{
+    margin:10px;
+}
+.order_form>input{
+    margin:10px;
+}
